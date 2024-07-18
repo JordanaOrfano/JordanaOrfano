@@ -20,13 +20,7 @@ Estoy trabajando en varios proyectos personales que me ayudan a perfeccionar mis
 - QA Testing
 - Test Automation
 
-## 🎯 Objetivos
-
-Busco oportunidades que me permitan aplicar y ampliar mis habilidades técnicas en un entorno profesional, contribuyendo al éxito de proyectos innovadores y de impacto. Estoy entusiasmada por colaborar con equipos dinámicos y participar en la creación de soluciones tecnológicas que marquen la diferencia.
-
 ## 📫 Contacto
-
-¡Estoy siempre abierta a nuevas conexiones y colaboraciones! Puedes encontrarme en:
 
 - **LinkedIn**: [Jordana Orfano](https://www.linkedin.com/in/jordana-orfano)
 - **Correo electrónico**: jordanaorfano@gmail.com
