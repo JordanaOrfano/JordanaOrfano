@@ -19,8 +19,3 @@ Estoy trabajando en varios proyectos personales que me ayudan a perfeccionar mis
 - Desarrollo web
 - QA Testing
 - Test Automation
-
-## 📫 Contacto
-
-- **LinkedIn**: [Jordana Orfano](https://www.linkedin.com/in/jordana-orfano)
-- **Correo electrónico**: jordanaorfano@gmail.com
