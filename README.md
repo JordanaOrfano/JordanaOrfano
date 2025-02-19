@@ -1,10 +1,10 @@
 ## 👋 ¡Hola! Soy Jordana Orfano
 
-Soy una estudiante de programación apasionada por la tecnología y el desarrollo de software. Actualmente, estoy adquiriendo conocimientos en varios lenguajes de programación y herramientas tecnológicas, incluyendo:
+Soy una programadora recién graduada, apasionada por la tecnología y el desarrollo de software. Con un promedio académico de 9.54, me destaco por ser analítica, detallista y proactiva. Además, poseo un nivel avanzado de inglés (C1).  Actualmente estoy adquiriendo conocimientos en varios lenguajes de programación y tecnologías, incluyendo:
 
-- **Lenguajes**: Python, HTML/CSS/JavaScript, SQL
-- **Frameworks**: Flask
-- **Herramientas**: Git, SASS, Bootstrap
+- **Habilidades técnicas**: Python _(avanzado)_, MySQL _(intermedio)_, HTML/CSS/JavaScript _(intermedio)_, Bootstrap _(Avanzado)_, Wordpress _(intermedio)_, SASS _(avanzado)_, Flask _(básico)_.
+- **Idiomas**: Inglés _(Avanzado, C1)_, Español nativo.
+- **Herramientas**: Git/GitHub, Trello, Jira, Microsoft Office, Linux.
 
 ## 🔧 Habilidades
 
@@ -16,6 +16,7 @@ Soy una estudiante de programación apasionada por la tecnología y el desarroll
 
 Estoy trabajando en varios proyectos personales que me ayudan a perfeccionar mis habilidades y a mantenerme al día con las últimas tendencias tecnológicas. Mis áreas de interés incluyen:
 
-- Desarrollo web
+- Desarrollo Web
+- WordPress
 - QA Testing
 - Test Automation
